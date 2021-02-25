@@ -3,7 +3,7 @@
 ##### Calcan Elena-Claudia 
 ##### 321CA
 
-<br\>
+<br/>
 
 Task1
 -------------------------------------------------------------------------------
@@ -110,9 +110,9 @@ Task1
 			variabila % K, pentru a afla spionul asignat
 
 
-<br\>
+<br/>
 
-‣ Task2
+Task2
 -------------------------------------------------------------------------------
 
 	• sunt citite din fisier familiile mafiote si relatiile dintre acestea
@@ -192,7 +192,7 @@ Task1
 	• pentru fiecare varibila pozitiva se face operatia:
 			variabila % N, pentru a afla membrii din clica
 
-<br\>
+<br/>
 
 
 Task3
@@ -215,7 +215,7 @@ Task3
 	apar in clica grafului complementar
 
 
-<br\>
+<br/>
 
 Bonus
 -------------------------------------------------------------------------------
