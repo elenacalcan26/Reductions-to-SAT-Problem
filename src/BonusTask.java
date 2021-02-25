@@ -1,6 +1,3 @@
-// Copyright 2020
-// Author: Matei Simtinică
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
